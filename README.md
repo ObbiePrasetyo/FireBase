@@ -1,6 +1,6 @@
 # Implementasi Firebase Sederhana
 Implementasi Firebase Sederhana - Incremental Game, Dibuat dengan UNITY 2018.3.3f1.
-Using firebase_unity_sdk_8.3.0
+Using firebase_unity_sdk_8.3.0.
 
 # How To Play
 1. Go to Release Tab
